@@ -13,6 +13,7 @@ System Design · Architecture · Scalability · Microservices · Cloud
 ## Recent content
 
 <!-- RECENT_CONTENT -->
+| [Restaurant POS System Design](architecture/2026/06/restaurant-pos-system-design.md) | Latest |
 | [Food Delivery Platform Architecture](architecture/2026/06/food-delivery-platform-architecture.md) | Latest |
 
 | Article | Added |
